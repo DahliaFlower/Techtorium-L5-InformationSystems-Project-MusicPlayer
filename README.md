@@ -3,6 +3,13 @@
 
 This was a two phase project. Only the final version has been uploaded. 
 
+OVERVIEW:
+You work as a App Developer at a software development company called Big Horizon Limited. Your company produces customized software solutions for startups and other businesses throughout New Zealand.
+
+Your team has been approached by a startup called Sweet As Sound. They have seen the success of music streaming platforms and after a thorough investigation they spotted a gap in the local New Zealand music landscape
+
+You have to design and prototype an app (similar to Spotify) that will allow local New Zealand artists to published their music so people can stream it online and listen to it.
+
 PHASE 1: 
 SR01: Create the User personas for the scenario given above and make sure you address the following points:
 a) Goals

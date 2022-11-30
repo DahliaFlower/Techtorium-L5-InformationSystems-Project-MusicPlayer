@@ -1,0 +1,13 @@
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\bin\Debug\MusicConnectivity.exe.config
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\bin\Debug\MusicConnectivity.exe
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\bin\Debug\MusicConnectivity.pdb
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.csproj.AssemblyReference.cache
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.LoginForm.resources
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.Properties.Resources.resources
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.csproj.GenerateResource.cache
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.csproj.CoreCompileInputs.cache
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.exe
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.pdb
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.SignUpPage.resources
+C:\Users\Annette Bigby\source\repos\MusicConnectivity\MusicConnectivity\obj\Debug\MusicConnectivity.homePage.resources
